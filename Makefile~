@@ -1,5 +1,0 @@
-blah: hello_world.cpp
-	g++ hello_world.cpp -o blahblah
-
-clean:
-	rm -f *o blahblah
